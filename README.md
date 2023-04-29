@@ -8,13 +8,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akhandpratap-singh-135312204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhandpratap-singh-135312204/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/2001640100030_2c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/2001640100030_2c" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/akhandpratap_singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akhandpratap_singh/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akhandpratap-singh-135312204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhandpratap-singh-135312204/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/2001640100030_2c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/2001640100030_2c" height="30" width="40" /></a>
+<a href="https://leetcode.com/akhandpratap_singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akhandpratap_singh/" height="30" width="40" /></a>
 
-  <a href="https://kaggle.com/https://www.kaggle.com/akhandpratapsingh136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/akhandpratapsingh136" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/akhand2singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/akhand2singh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/singhakhandpratap136/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/singhakhandpratap136/practice" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/akhandpratapsingh136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/akhandpratapsingh136" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/akhand2singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/akhand2singh" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/singhakhandpratap136/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/singhakhandpratap136/practice" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
