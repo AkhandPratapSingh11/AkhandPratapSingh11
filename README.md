@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UTs1ycfwgrCuktwNSGNhkED3XvS2oHsg/view?usp=sharing](https://drive.google.com/file/d/1UTs1ycfwgrCuktwNSGNhkED3XvS2oHsg/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LX_Ue1apMGzEuuGDLG81z-sHLHB-P3MN/view?usp=drive_link](https://drive.google.com/file/d/1LX_Ue1apMGzEuuGDLG81z-sHLHB-P3MN/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
