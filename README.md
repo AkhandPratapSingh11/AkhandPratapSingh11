@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **singhakhandpratap136@gmail.com**
 
-- 📄 Know about my experiences [http://surl.li/jnovl](http://surl.li/jnovl)
+- 📄 Know about my experiences [http://surl.li/lphze](http://surl.li/lphze)
 
 - ⚡ Fun fact **I think I am funny**
 
