@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Sign Recognition System](https://github.com/AkhandPratapSingh11/Sign_reco)
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkhandPratapSingh11?tab=repositories](https://github.com/AkhandPratapSingh11?tab=repositories)
 
