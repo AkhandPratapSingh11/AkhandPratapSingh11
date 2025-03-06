@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhandpratapsingh11&label=Profile%20views&color=0e75b6&style=flat" alt="akhandpratapsingh11" /> </p>
 
 
-- 🔭 I’m currently working on [Sign Recognition System](https://github.com/AkhandPratapSingh11/Sign_reco)
+- 🔭 I’m currently working on [Xray image classification](https://github.com/AkhandPratapSingh11/Xray)
 
 - 🌱 I’m currently learning **Agentic AI**
 
