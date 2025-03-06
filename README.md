@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkhandPratapSingh11?tab=repositories](https://github.com/AkhandPratapSingh11?tab=repositories)
 
-- 📫 How to reach me **singhakhandpratap136@gmail.com**  LinedIn ---  (https://www.linkedin.com/in/akhand-pratap-singh-135312204/)
+- 📫 How to reach me **singhakhandpratap136@gmail.com** / https://www.linkedin.com/in/akhand-pratap-singh-135312204/
 
 - 📄 Know about my experiences [http://surl.li/lphze](http://surl.li/lphze)
 
